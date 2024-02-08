@@ -4,5 +4,5 @@
 
 Certified by CMarco Development
 <picture>
-  <img src="/newAlexRating.png" alt="CMarco's Rating">
+  <img src="/cmarco_rating_200.png" alt="CMarco's Rating">
 </picture>
