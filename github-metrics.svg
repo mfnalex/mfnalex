@@ -1249,6 +1249,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1270,7 +1275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lxtharia/minegrub-theme</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred May 18 2025</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Grub Theme in the style of Minecraft!</div>
@@ -1323,7 +1328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lxtharia/doomgrub-theme</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred May 18 2025</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Grub2 theme in the style of Doom!</div>
@@ -1467,7 +1472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2025, 02:31:59 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jun 2025, 02:31:36 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
